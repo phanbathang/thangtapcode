@@ -1,0 +1,106 @@
+:root {
+    --primary-color : #ffd400;
+    --text-color : #333333;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto' , sans-serif ;
+    box-sizing: border-box;
+}
+/* Sale*/ 
+.sale10 {
+    background: linear-gradient(to right, #fcb500 10%, #dddd 10%);
+}
+
+.sale20 {
+    background: linear-gradient(to right, #fcb500 20%, #dddd 10%);
+}
+
+.sale30 {
+    background: linear-gradient(to right, #fcb500 30%, #dddd 10%);
+}
+
+.sale40 {
+    background: linear-gradient(to right, #fcb500 40%, #dddd 10%);
+}
+
+.sale50 {
+    background: linear-gradient(to right, #fcb500 50%, #dddd 10%);
+}
+
+.sale60 {
+    background: linear-gradient(to right, #fcb500 60%, #dddd 10%);
+}
+
+.sale70 {
+    background: linear-gradient(to right, #fcb500 70%, #dddd 10%);
+}
+
+.sale80 {
+    background: linear-gradient(to right, #fcb500 80%, #dddd 10%);
+}
+
+.sale90 {
+    background: linear-gradient(to right, #fcb500 90%, #dddd 10%);
+}
+
+.sale100 {
+    background: linear-gradient(to right, #fcb500 100%, #dddd 10%);
+}
+
+/* Sale Gold */
+
+.salereduce {
+    background: linear-gradient(to right,#af63cf,#3327a7) !important;
+}
+
+.salehot {
+    background: linear-gradient(to right,#3bacf0,#1b6dc1) !important;
+    width: 140px !important;
+}
+
+/* test */
+.bottom {
+    padding-bottom: 86px;
+}
+
+/* service*/
+.thunder {
+    background-color: #fef5cf;
+}
+
+.ps {
+    background-color: #ffefdb;
+}
+
+.office {
+    background-color: #e1fecf;
+}
+
+/* goi y */
+.background {
+    background-color: #feb70b;
+}
+
+.height {
+    height: 170px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.truncate {
+    white-space: nowrap; /* Ngăn chữ bị xuống dòng */
+    overflow: hidden; /* Ẩn chữ vượt quá kích thước của phần tử */
+    text-overflow: ellipsis; /* Hiển thị dấu "..." */
+}
+
+/* footer */
+.width {
+    width: 350px;
+}
